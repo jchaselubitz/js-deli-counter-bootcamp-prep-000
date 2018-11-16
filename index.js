@@ -25,3 +25,5 @@ function currentLine(currentPosition) {
     return 'The line is currently empty.'
   }
 }
+
+//Biggest challenge with this one was discovering that I had spelled "serving" as "surving"...
